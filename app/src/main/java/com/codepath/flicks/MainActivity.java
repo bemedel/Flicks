@@ -31,7 +31,6 @@ public class MainActivity extends AppCompatActivity {
 
     //tag for logging from this activity
     public final static String TAG = "MainActivity";
-
     // instance fields
     AsyncHttpClient client;
     // the list of currently
